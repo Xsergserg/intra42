@@ -1,0 +1,5 @@
+Credentials cache: API:11595
+        Principal: rbeach@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jan 27 13:16:19 2020  Jan 27 23:16:19 2020  krbtgt/21-SCHOOL.RU@21-SCHOOL.RUsfsaffsdffsdf
